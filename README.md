@@ -1,4 +1,6 @@
-### Hi there 👋
+📖 [Redux 문서 한국어](https://ko.redux.js.org) 번역에 참여해주세요!
+
+https://github.com/deminoth/redux
 
 <!--
 **deminoth/deminoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
